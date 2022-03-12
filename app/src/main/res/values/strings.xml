@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CaffeKU</string>
+    <string name="sudahAdaAkun"><u>Sudah Memiliki Akun?</u></string>
+    <string name="akunBaru"><u>Buat Akun Baru</u></string>
+</resources>
